@@ -53,6 +53,23 @@ This notebook is a **mini simulation lab** for:
 You can install them with your favorite method (`pip`, `conda`, etc.).
 
 ---
+## 🧪 Sample Output
+
+ECGSYN.DAT ECG: ✅
+![alt text](image.png)
+
+Noisy ECG: 😵
+![alt text](image-1.png)
+
+Filtered ECG: 🧼
+![alt text](image-2.png)
+
+Amplified ECG: 🔊
+![alt text](image-3.png)
+
+Heartbeats Detected: ❤️❤️❤️
+![alt text](image-4.png)
+ ---
 
 ## 📎 File Structure
 
@@ -61,3 +78,18 @@ You can install them with your favorite method (`pip`, `conda`, etc.).
 ├── ECGSYN.DAT_SIMULATION.ipynb
 ├── ecgsyn.dat
 ├── README.md
+
+---
+
+## 🧪 Sample Output
+(Add screenshots or waveform images here)
+
+Clean ECG: ✅
+
+Noisy ECG: 😵
+
+Filtered ECG: 🧼
+
+Amplified ECG: 🔊
+
+Heartbeats Detected: ❤️❤️❤️
