@@ -81,15 +81,7 @@ Heartbeats Detected: ❤️❤️❤️
 
 ---
 
-## 🧪 Sample Output
-(Add screenshots or waveform images here)
+📜 License
+MIT License — free to use, learn from, and remix.
 
-Clean ECG: ✅
-
-Noisy ECG: 😵
-
-Filtered ECG: 🧼
-
-Amplified ECG: 🔊
-
-Heartbeats Detected: ❤️❤️❤️
+Built with code, curiosity, and a steady heartbeat by EUGENE OPPONG OKYERE 💓
