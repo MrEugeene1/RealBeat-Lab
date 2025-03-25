@@ -1,4 +1,4 @@
-#🫀 RealBeat Lab: From Raw Signals to Real Insights
+# 🫀 RealBeat Lab: From Raw Signals to Real Insights
 **RealBeat Lab** is a hands-on notebook project focused on working with **real ECG signal data** from `ecgsyn.dat`. We take the raw heartbeat signal, add real-world noise, clean it up, amplify it, and detect peaks — just like a real ECG monitoring system would.
 
 If you've ever wondered how hospitals extract meaningful heartbeats from noisy signals, this project is your lab manual 💡💓
